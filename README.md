@@ -11,8 +11,10 @@ A. News on .NET Architecture Guidance published at http://dot.net/architecture
 
 B. News on reference applications like:
 - eShopOnContainers: https://github.com/dotnet-architecture/eShopOnContainers
+- eShopOnDapr: https://github.com/dotnet-architecture/eShopOnDapr
 - eShopModernizing: https://github.com/dotnet-architecture/eShopModernizing
 - eShopOnWeb: https://github.com/dotnet-architecture/eShopOnWeb
-- eShopUWP: https://github.com/dotnet-architecture/eShopOnUWP
-- eShopOnContainersAI: https://github.com/dotnet-architecture/eShopOnContainersAI
+- eShopOnBlazor: https://github.com/dotnet-architecture/eShopOnBlazor
+- eShop - .NET MAUI: https://github.com/dotnet-architecture/eshop-mobile-client
+- gRPC for WCF Developers: https://github.com/dotnet-architecture/grpc-for-wcf-developers
 - Other samples under https://github.com/dotnet-architecture
